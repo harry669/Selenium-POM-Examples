@@ -1,0 +1,6 @@
+# Don't track content of these folders
+.classpath
+.project
+.settings/
+/bin/*
+/test-output/*
